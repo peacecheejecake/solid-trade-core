@@ -1,2 +1,2 @@
 ## Colab Notebooks
-- [Simplest](https://colab.research.google.com/drive/1MCHTkl--N3piUAf1y0kLME26VkqBNW3p?hl=ko#scrollTo=dIdslAb4LU_4)
+- [Simplest](https://colab.research.google.com/drive/1PF2QimTNkzA-v9SuRkxKA4DXSLp56EWX?hl=ko#scrollTo=yAHBd_E6ia23)
